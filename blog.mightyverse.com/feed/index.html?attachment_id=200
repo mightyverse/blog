@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: A New Phraselist, Russian Phrases for Arianna	</title>
-	<atom:link href="https://blog.mightyverse.com/feed/?attachment_id=200" rel="self" type="application/rss+xml" />
-	<link>https://blog.mightyverse.com/screen-shot-2010-01-20-at-12-58-02-am/</link>
+	<atom:link href="/feed/?attachment_id=200" rel="self" type="application/rss+xml" />
+	<link>/screen-shot-2010-01-20-at-12-58-02-am/</link>
 	<description>Blog by Mightyverse people</description>
 	<lastBuildDate>Wed, 20 Jan 2010 08:59:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
