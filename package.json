@@ -7,5 +7,10 @@
     "author": "Sarah Allen <sarah@mightyverse.com>",
     "dependencies": {
         "@11ty/eleventy": "^0.12.1"
+    },
+    "scripts": {
+        "build": "rm -rf _site/* && npx @11ty/eleventy --passthroughall",
+        "serve": "rm -rf _site/* && npx @11ty/eleventy --passthroughall --serve",
+        "debug": "rm -rf _site/* && DEBUG=* npx @11ty/eleventy --passthroughall"
     }
 }
