@@ -4,5 +4,8 @@
     "description": "Mightyverse blog",
     "main": "index.js",
     "repository": "git@github.com:mightyverse/blog.git",
-    "author": "Sarah Allen <sarah@mightyverse.com>"
+    "author": "Sarah Allen <sarah@mightyverse.com>",
+    "dependencies": {
+        "@11ty/eleventy": "^0.12.1"
+    }
 }
